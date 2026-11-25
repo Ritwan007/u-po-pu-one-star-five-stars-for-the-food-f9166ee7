@@ -1,0 +1,8 @@
+{
+  "name": "one-star-five-stars-for-the-food",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One-star alien review of Earth that still compliments the food, for make.fun",
+  "license": "MIT"
+}
